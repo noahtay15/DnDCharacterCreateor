@@ -19,4 +19,5 @@ Every character has a few ability scores: strength, dexterity, intelligence, wis
 1) Roll a 6-sided die, 3 times. 
 2) Roll a 6-sided die, 5 times. 
 3) Roll a 6-sided die 5 times, then a 3-sided die once. 
+
 The race of the character chosen gives an advantage in two ability scores and a disadvantage in another. Exs: If elf was chosen, +2 dexterity, +2 intelligence, -2 constituion. If gnome was chosen, +2 dexterity, +2 constitution, -2 strength. 
