@@ -2,10 +2,6 @@
 package charcreator;
 
 import java.util.Random;
-/**
- *
- * @author Alex
- */
 
 public class Height implements RandomGenerator{
     //instance variables to be used for random generator
