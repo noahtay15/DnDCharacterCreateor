@@ -1,10 +1,5 @@
 package charcreator;
 
-/**
- * class to assign values to the instance variable in class Character
- * needs to run after character race has been established
- * @author Noah Taylor
- */
 import java.util.Scanner;
 public class CharacterAbilityScores {
     private int strength;
