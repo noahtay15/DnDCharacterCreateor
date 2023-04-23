@@ -2,10 +2,6 @@
 package charcreator;
 import java.util.Scanner;
 
-/**
- *
- * @author jordan, brady
- */
 public class AccountCreator {
     //instance variables
     private String email;
