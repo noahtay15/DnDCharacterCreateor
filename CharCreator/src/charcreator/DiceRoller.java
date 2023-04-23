@@ -1,11 +1,8 @@
 package charcreator;
 
-/**
- * the class that holds the methods for the three methods of rolling dice
- * @author Noah Taylor
- */
 import java.util.Arrays;
 import java.util.Random;
+
 public class DiceRoller {
     private int diceRoll;
     private Random rand = new Random();
