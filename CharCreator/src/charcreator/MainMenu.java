@@ -5,10 +5,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
-/**
- * handles the main menu options, the bulk of the program
- * @author brady
- */
+
 public class MainMenu {
     /**
      * main menu method, handles main menu choices
