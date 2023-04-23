@@ -1,10 +1,6 @@
 
 package charcreator;
 import java.util.Random;
-/**
- *
- * @author Alex
- */
 
 public class Age implements RandomGenerator {
     //instance variables for the random generator
