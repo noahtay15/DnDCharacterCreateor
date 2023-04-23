@@ -3,10 +3,6 @@ package charcreator;
 
 import java.io.Serializable;
 
-/**
- * Character class, holds all values
- * @author brady
- */
 public class Character implements Serializable {
     //needed to serialize the object for storage
     private static final long serialVersionUID = 1L;
