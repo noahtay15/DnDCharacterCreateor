@@ -6,7 +6,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author jordan, brady, noah
+ * @author noah
  */
 public class Account implements Serializable {
     //needed to serialize
