@@ -1,9 +1,5 @@
 package charcreator;
 
-/**
- * holds races array
- * @author Noah Taylor
- */
 public class Races {
     private static String[] races = {"Human ", "Elf ", "Dwarf ", "Gnome ", "Halfling "};
 
