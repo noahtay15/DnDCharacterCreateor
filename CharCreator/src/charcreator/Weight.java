@@ -1,10 +1,6 @@
 
 package charcreator;
 import java.util.Random;
-/**
- * randomly generates weight
- * @author Alex
- */
 
 public class Weight implements RandomGenerator {
     //instance variables to be used for the random numbers
