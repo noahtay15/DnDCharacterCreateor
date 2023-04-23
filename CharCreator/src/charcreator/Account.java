@@ -4,10 +4,6 @@ package charcreator;
 import java.io.Serializable;
 import java.util.ArrayList;
 
-/**
- *
- * @author noah
- */
 public class Account implements Serializable {
     //needed to serialize
     private static final long serialVersionUID = 1L;
