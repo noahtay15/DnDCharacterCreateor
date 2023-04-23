@@ -1,11 +1,7 @@
 package charcreator;
 
 import java.util.Scanner;
-/**
- * Character creator class
- * contains all methods for creating a character
- * @author brady
- */
+
 public class CharacterCreator {
     //holder variables used in other methods
     private String race = "not set";
