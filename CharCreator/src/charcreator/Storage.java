@@ -8,11 +8,6 @@ import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 
-/**
- * class for handling saving and loading of accounts and characters
- * also holds current character & account variables
- * @author brady
- */
 public class Storage {
     //current character and account
     private static Character currentChar;   
